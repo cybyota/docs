@@ -1,0 +1,2 @@
+# Ethereum ↔ Yota GoodDollar Token
+
