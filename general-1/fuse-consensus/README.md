@@ -8,11 +8,11 @@ Consensus contract is used to manage the list of the network validators and dele
 
 BlockReward contract is calculates the reward amount that validators and delegators will receive on each block validation. The reward size is proportional to validator's stake.
 
-With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.&#x20;
+With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
 
-The bridge is used to transfer the Yota native token between Yota and Ethereum networks.&#x20;
+The bridge is used to transfer the Yota native token between Yota and Ethereum networks.
 
-## [Consensus - 0xf39f8f3223aDB78F87836eeD365ca858D876873a](https://cybyotascan.com/address/0xf39f8f3223aDB78F87836eeD365ca858D876873a)
+## [Consensus - 0xFE9381ba1D884171842949066fAB718dc6AE231e](./#consensus-0xfe9381ba1d884171842949066fab718dc6ae231e)
 
 This contract is responsible for handling the network DPos consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
 
@@ -28,7 +28,7 @@ minimum stake amount = 10,000 Yota token
 cycle duration blocks = 57600 (approximately 2 days)
 {% endhint %}
 
-## [Block Reward - 0xd483605703A18Ce5CDac692B60E41c922a8A3b8E](https://cybyotascan.com/address/0xd483605703A18Ce5CDac692B60E41c922a8A3b8E)
+## [Block Reward - 0x5c708c53e4379922444aC79591Ab3dFa4fEf2C66](https://cybyotascan.com/address/0x5c708c53e4379922444aC79591Ab3dFa4fEf2C66)
 
 This contract is responsible for generating and distributing block rewards to the network validators according to the network specs (1% yearly inflation).
 
@@ -36,7 +36,7 @@ Another role of this contract is to call the snapshot/cycle logic on the Consens
 
 This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
 
-## [Voting - 0x1c5ECaB05db92524118e7d95C45b3c121571834E](https://cybyotascan.com/address/0x1c5ECaB05db92524118e7d95C45b3c121571834E)
+## [Voting - 0x617fb1f17978339aE5F9147cc247F0327b362Ccd](https://cybyotascan.com/address/0x617fb1f17978339aE5F9147cc247F0327b362Ccd)
 
 This contract is responsible for opening new ballots and voting to accept/reject them. Ballots are basically offers to change other network contracts implementation.
 
@@ -57,4 +57,3 @@ maximum ballot duration (cycles) = 14
 ## [Proxy Storage](https://cybyotascan.com/address/0x9b66D237552d25Bc7942eF67832663dc264c926B)
 
 This contract is responsible for holding network contracts implementation addresses and upgrading them if necessary (via voting).
-
