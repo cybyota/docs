@@ -4,14 +4,14 @@
 
 ## DOCUMENTATION <a href="#general" id="general"></a>
 
-* [Learn about the Yota Platform](general/learn-about-the-fuse-platform/README.md)
-  * [Yota Overview: vision, strategy and platform components](general/learn-about-the-fuse-platform/fuse-overview.md)
-  * [The Yota Blockchain](general/learn-about-the-fuse-platform/fuse-network-blockchain/README.md)
+* [Learn about the Cybyota Platform](general/learn-about-the-fuse-platform/README.md)
+  * [Cybyota Overview: vision, strategy and platform components](general/learn-about-the-fuse-platform/fuse-overview.md)
+  * [The Cybyota Blockchain](general/learn-about-the-fuse-platform/fuse-network-blockchain/README.md)
     * [Discovering the Network](general/learn-about-the-fuse-platform/fuse-network-blockchain/discovering-the-network.md)
-    * [Yota Consensus](general/learn-about-the-fuse-platform/fuse-network-blockchain/fuse-consensus.md)
+    * [Cybyota Consensus](general/learn-about-the-fuse-platform/fuse-network-blockchain/fuse-consensus.md)
     * [Delegation through Staking with Validators](general/learn-about-the-fuse-platform/fuse-network-blockchain/validators-and-delegation.md)
     * [Ethereum (EVM) Compatibility and Smart Contracts](general/learn-about-the-fuse-platform/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
-    * [Boosting Yota's Scalability](general/learn-about-the-fuse-platform/fuse-network-blockchain/scaling-l2-payments.md)
+    * [Boosting Cybyota's Scalability](general/learn-about-the-fuse-platform/fuse-network-blockchain/scaling-l2-payments.md)
   * [Yota Token (YOTA)](general/learn-about-the-fuse-platform/fuse-token/README.md)
     * [YOTA Tokenomics](general/learn-about-the-fuse-platform/fuse-token/fuse-tokenomics.md)
     * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting YOTA](general/learn-about-the-fuse-platform/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)

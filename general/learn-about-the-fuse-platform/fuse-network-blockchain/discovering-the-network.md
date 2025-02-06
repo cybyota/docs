@@ -1,8 +1,6 @@
 # Discovering the Network
 
-
-
-The following information will help you discover and connect to the Yota blockchain:  &#x20;
+The following information will help you discover and connect to the Cybyota blockchain:
 
 * Network name: **YOTA**
 * ChanId: **89420**

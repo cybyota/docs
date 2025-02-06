@@ -1,20 +1,20 @@
 ---
-description: Welcome to the documentation portal for Yota
+description: Welcome to the documentation portal for Cybyota
 ---
 
 # Summary
 
-![](<.gitbook/assets/docs_1500x500.png>)
+![](.gitbook/assets/docs_1500x500.png)
 
-Welcome to the go-to portal for in-depth information about the Yota (YOTA) platform and ecosystem and how to interact with them!
+Welcome to the go-to portal for in-depth information about the Cybyota platform and ecosystem and how to interact with them!
 
-The Yota documentation is separated into three major parts:
+The Cybyota documentation is separated into three major parts:
 
-**1.** **Yota Docs**. This part is available in the sections below is for anyone who wants to learn more about Yota without going into detail that only developers would usually need to know.
+**1.** **Cybyota Docs**. This part is available in the sections below is for anyone who wants to learn more about Cybyota without going into detail that only developers would usually need to know.
 
-**2.** **Developer docs.** Developers wishing to build on top of Yota and its mobile-centric infrastructure or run validator nodes should consult this [portal](https://developers.cybyotascan.com).&#x20;
+**2.** **Developer docs.** Developers wishing to build on top of Cybyota and its mobile-centric infrastructure or run validator nodes should consult this [portal](https://developers.cybyotascan.com).
 
-**3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. **** &#x20;
+**3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. \*\*\*\*
 
 {% hint style="info" %}
 Join our [Telegram group](https://t.me/)\
