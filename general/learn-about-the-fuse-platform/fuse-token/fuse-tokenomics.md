@@ -1,17 +1,27 @@
 # YOTA Tokenomics
 
-Currently, the YOTA token supply is set to follow a **mildly inflationary model**. 
+Currently, the YOTA token supply is set to **1 Billion 1 Million**.
 
-With each new block created every 5 seconds on Yota, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued YOTA tokens. This is designed to secure the network's [consensus mechanism](https://docs.cybyotascan.com/general/fuse-network-blockchain/fuse-consensus). 
+With each new block created every 5 seconds on Yota, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued YOTA tokens. This is designed to secure the network's [consensus mechanism](https://docs.cybyotascan.com/general/fuse-network-blockchain/fuse-consensus).
 
-The reward amount per block is currently set such that every year, the YOTA total supply increases by approximately 5%.
+**YOTA TOKENOMICS**
 
-The main reason for choosing an inflationary model at the early development stage was to ensure a certain predictability of the flow of revenue for network validators and delegators. If they had to exclusively rely on transaction fees as the reward for staking YOTA and validating, it would be harder for them to predict their future returns, as transaction activity on the network can fluctuate a lot. The relative predictability of validator revenue is an important assumption behind the blockchain consensus theory on which the Yota consensus mechanism is based.  
+Total Supply - 1 Billion 1 Million
+
+#### The Founding Team:&#x20;
+
+400.4 Million (40% supply) accrued over the span of 5 years.‍
+
+#### Angel Investors:
+
+150.15 Million (15% of supply) immediate access; vested for 2 years.
+
+#### Public Auction:&#x20;
+
+250.25 Million (25% of supply) were all available for sale during the 2025 public sale. They were sold for 10 cents a piece.
+
+#### Cybyota Mining App:&#x20;
+
+200.2 Million (20% supply)
 
 Having substantial block rewards also makes it possible to keep transaction fees on the network low, facilitating adoption of Yota.
-
-### Potential inflation reduction  
-
-A Yota Improvement Proposal aimed at reducing the YOTA inflation  is currently under discussion by the community. If adopted by the validators, it will result in an annual inflation rate of 2% for third year of the network's existence and a fixed amounts of tokens issued in the subsequent years.
-
-You can find the text of the proposal and the discussion [here](https://forum.cybyotascan.com/t/changing-fuse-network-inflation-rate/102).   

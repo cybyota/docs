@@ -38,4 +38,10 @@ From time to time, the Yota team uses YOTA to pay rewards to the members of the 
 
 The YOTA token is also used to power Yota grants and bounties. Please consult the [Grants and Bounties](https://docs.cybyotascan.com/general/things-you-can-do-on-fuse/grants-and-bounties) section for more details.
 
+### Cybyota Mobile Mining Platform
+
+Any user can start mining YOTA coins on our mobile mining platform, available in both free and paid options! The app is called _**Cybyota**_ and can be downloaded from [**Google Play Store**](https://play.google.com/store/apps/details?id=com.cybyota.app\&hl=en_IN) and **App Store**.
+
+Get started now and enjoy YOTA mining while it lasts!
+
 \_\_

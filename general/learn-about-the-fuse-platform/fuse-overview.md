@@ -2,7 +2,7 @@
 
 Cybyota is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).
 
-The project was launched in 2019 by a team formerly involved in building the Cybyota project aimed at bringing local currencies to the blockchain.
+The project was launched in 2021 by a team formerly involved in building the Cybyota project aimed at bringing local currencies to the blockchain.
 
 ### The Problem
 
